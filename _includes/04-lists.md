@@ -1,9 +1,5 @@
-<ol>
-
-    <li>This</li>
-
-    <li>Is an</li>
-
-    <li>Ordered list</li>
-
-</ol>
+* pen
+* pencil
+* peacock
+* parrot
+* parents
